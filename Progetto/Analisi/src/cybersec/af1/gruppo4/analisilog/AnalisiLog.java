@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
@@ -26,22 +27,19 @@ public class AnalisiLog
 	
 	private static Logger logger = Logger.getLogger(AnalisiLog.class);
 	
-	public AnalisiLog(String s){
+	public AnalisiLog(){
 		// <NumCliente, (List[0]:#opRiuscite, list[1]:#opFallite, list[2]:denaroRichiesto, list[3]:denaroRicevuto, list[4]: tempoMedioAttesa)>
 		infoClienti = new HashMap<Integer, int[] >();
-		// <NumeroSportello, (List[0]:#opEffettuate, list[1]:#ricariche, list[2]: denaroErogato, list[3]: clientiServiti)>
+		// <NumeroSportello, (List[0]:#opEffettuate, list[1]:#ricariche, list[2]: denaroErogato)>
 		infoBanca = new HashMap<Integer, int[]>(); 
+		
+	}
+	
+	public void analizzaFile(String s){
 		try {
 			log = new File(s);
 			fr = new FileReader(log);
 			br = new BufferedReader(fr);
-		} catch (FileNotFoundException f) {
-			logger.error("FileNotFoundException AnalisiLog", f);
-		}
-	}
-	
-	public void analizzaFile(){
-		try {
 			line = br.readLine();
 			//while che cicla sulle linee del file di log
 			while(line != null){
@@ -137,7 +135,10 @@ public class AnalisiLog
 				infoClienti.get(i)[4] = (int) infoClienti.get(i)[4]/op;
 			}
 			
-		}catch (IOException e) {
+		}catch (FileNotFoundException f) {
+			logger.error("FileNotFoundException AnalisiLog", f);
+		}
+		catch (IOException e) {
 			logger.error("IOException AnalisiLog", e);
 		}
 	}
@@ -151,15 +152,30 @@ public class AnalisiLog
 	}
 	
 	public static void main(String[] args) {
-		AnalisiLog l = new AnalisiLog("D:/Progetto Cyber Sec/workspaceCS/banca_af1.log");
-		l.analizzaFile();
+		AnalisiLog l = new AnalisiLog();
+		l.analizzaFile("D:/Progetto Cyber Sec/workspaceCS/banca_af1-1.log");
+		l.analizzaFile("D:/Progetto Cyber Sec/workspaceCS/banca_af1-2.log");
+		l.analizzaFile("D:/Progetto Cyber Sec/workspaceCS/banca_af1-3.log");
 		Map<Integer, int[]> m1 = l.getInfoBanca();
 		Map<Integer, int[]> m2 = l.getInfoClienti();
 		
 		Gson json = new Gson();
-		String s = json.toJson(m1);
-		String s1 = json.toJson(m2);
-		logger.info(s);
-		logger.info(s1);
+		String bancaJson = json.toJson(m1);
+		String clientiJson = json.toJson(m2);
+//		logger.info(bancaJson);
+//		logger.info(clientiJson);
+		try {
+			//write converted json data to a file named "file.json"
+			FileWriter fw1 = new FileWriter("D:/Progetto Cyber Sec/workspaceCS/Statbanca.json");
+			fw1.write(bancaJson);
+			fw1.close();
+//			FileWriter 
+			fw1 = new FileWriter("D:/Progetto Cyber Sec/workspaceCS/Statcliente.json");
+			fw1.write(clientiJson);
+			fw1.close();
+	 
+		} catch (IOException e) {
+			logger.error("IOException AnalisiLog", e);
+		}
 	}
 }

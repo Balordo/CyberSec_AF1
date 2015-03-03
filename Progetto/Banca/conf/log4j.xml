@@ -24,7 +24,7 @@
 
 	<root>
 		<priority value="INFO" />
-		<appender-ref ref="stdout" />
+		<!-- <appender-ref ref="stdout" />-->
 		<appender-ref ref="fileAppender" />
 	</root>
 
