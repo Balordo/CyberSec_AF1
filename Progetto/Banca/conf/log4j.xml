@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- http://www.cosenonjaviste.it/logging-in-java-applications-using-log4j/ -->
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+	<appender name="fileAppender" class="org.apache.log4j.RollingFileAppender">
+		<param name="file" value="D:/Progetto Cyber Sec/workspaceCS/banca_af1.log" />
+		<!-- <param name="DatePattern" value="'.'yyyy-MM-dd" />-->
+		<param name="MaxFileSize" value="100KB" />
+		<param name="MaxBackupIndex" value="3" /> 
+		<layout class="org.apache.log4j.PatternLayout">
+      		<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss} %p [%C:%M:%L] - %m%n"/>
+    	</layout>
+	</appender>
+
+	<appender name="stdout" class="org.apache.log4j.ConsoleAppender">
+		<layout class="org.apache.log4j.PatternLayout">
+			<!-- Pattern to output the caller's file name and line number -->
+			<param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss} %p [%C:%M:%L] - %m%n"/>
+		</layout>
+	</appender>
+
+
+	<root>
+		<priority value="INFO" />
+		<appender-ref ref="stdout" />
+		<appender-ref ref="fileAppender" />
+	</root>
+
+</log4j:configuration>

@@ -1,0 +1,976 @@
+2015-03-02 17:32:43 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 20  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 108  €.
+2015-03-02 17:32:43 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:32:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 25  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 689  €.
+2015-03-02 17:32:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:32:48 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 9  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 415  €.
+2015-03-02 17:32:48 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:32:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 832  €.
+2015-03-02 17:32:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:32:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 21  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 960  €.
+2015-03-02 17:32:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:32:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 331  €.
+2015-03-02 17:32:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:32:58 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 437  €.
+2015-03-02 17:32:58 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:33:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 399  €.
+2015-03-02 17:33:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:33:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 618  €.
+2015-03-02 17:33:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:33:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 925  €.
+2015-03-02 17:33:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:33:08 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 8  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 876  €.
+2015-03-02 17:33:08 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:33:11 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 4  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 223  €.
+2015-03-02 17:33:11 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:33:15 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 28  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 714  €.
+2015-03-02 17:33:15 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:33:18 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 17  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 203  €.
+2015-03-02 17:33:18 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:33:19 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 941  €.
+2015-03-02 17:33:19 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:33:23 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 85  €.
+2015-03-02 17:33:23 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:33:26 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 23  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 573  €.
+2015-03-02 17:33:26 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:33:29 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 11  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 620  €.
+2015-03-02 17:33:29 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:33:32 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 14  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 320  €.
+2015-03-02 17:33:32 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:33:35 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 316  €.
+2015-03-02 17:33:35 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:33:39 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 501  €.
+2015-03-02 17:33:39 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:33:40 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 10  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 460  €.
+2015-03-02 17:33:40 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:33:44 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 7  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 166  €.
+2015-03-02 17:33:44 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:33:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 19  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 445  €.
+2015-03-02 17:33:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:33:49 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 330  €.
+2015-03-02 17:33:49 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:33:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 1  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 403  €.
+2015-03-02 17:33:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:33:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 0  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 281  €.
+2015-03-02 17:33:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:33:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 757  €.
+2015-03-02 17:33:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:33:59 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 424  €.
+2015-03-02 17:33:59 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:34:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 3  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 569  €.
+2015-03-02 17:34:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:34:02 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS0 PER RICARICARLO!
+2015-03-02 17:34:05 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:34:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 20  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:34:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 2  con esito   $E: false.
+2015-03-02 17:34:07 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 25  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 222  €.
+2015-03-02 17:34:07 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:34:09 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 9  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 858  €.
+2015-03-02 17:34:09 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 27  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:34:09 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:34:09 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:34:09 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 21  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:34:09 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:34:09 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 18  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:34:09 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:34:12 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 64  €.
+2015-03-02 17:34:12 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:34:12 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 6  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:34:12 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:34:12 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 12  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:34:12 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:34:15 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 442  €.
+2015-03-02 17:34:15 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:34:17 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 8  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 56  €.
+2015-03-02 17:34:17 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 4  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:34:17 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:34:17 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 28  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:34:17 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:34:17 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:34:17 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 17  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:34:17 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:40:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 19  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 736  €.
+2015-03-02 17:40:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:40:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 416  €.
+2015-03-02 17:40:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:40:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 25  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 604  €.
+2015-03-02 17:40:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:40:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 634  €.
+2015-03-02 17:40:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:40:58 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 663  €.
+2015-03-02 17:40:58 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:41:01 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 1  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 129  €.
+2015-03-02 17:41:01 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:41:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 894  €.
+2015-03-02 17:41:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:41:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 14  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 689  €.
+2015-03-02 17:41:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:41:08 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 810  €.
+2015-03-02 17:41:08 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:41:10 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 974  €.
+2015-03-02 17:41:10 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:41:13 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 0  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 755  €.
+2015-03-02 17:41:13 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:41:16 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 626  €.
+2015-03-02 17:41:16 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:41:20 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 8  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 531  €.
+2015-03-02 17:41:20 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:41:22 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 21  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 754  €.
+2015-03-02 17:41:22 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:41:24 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 993  €.
+2015-03-02 17:41:24 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:41:27 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 820  €.
+2015-03-02 17:41:27 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:41:29 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 874  €.
+2015-03-02 17:41:29 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:41:31 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 3  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 486  €.
+2015-03-02 17:41:31 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:41:34 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 708  €.
+2015-03-02 17:41:34 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:41:36 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 20  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 200  €.
+2015-03-02 17:41:36 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:41:39 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 23  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 678  €.
+2015-03-02 17:41:39 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:41:41 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 17  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 317  €.
+2015-03-02 17:41:41 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:41:44 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 28  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 889  €.
+2015-03-02 17:41:44 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:41:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 11  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 567  €.
+2015-03-02 17:41:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:41:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 9  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 151  €.
+2015-03-02 17:41:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:41:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 196  €.
+2015-03-02 17:41:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:41:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 7  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 982  €.
+2015-03-02 17:41:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:41:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 22  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:41:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:41:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 4  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 271  €.
+2015-03-02 17:41:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:41:58 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 10  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 749  €.
+2015-03-02 17:41:58 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:41:58 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS0 PER RICARICARLO!
+2015-03-02 17:41:59 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:42:01 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 19  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 457  €.
+2015-03-02 17:42:01 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:42:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 325  €.
+2015-03-02 17:42:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:42:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 25  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:42:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:36 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 17  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 878  €.
+2015-03-02 17:49:36 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:36 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 884  €.
+2015-03-02 17:49:36 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:36 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 278  €.
+2015-03-02 17:49:36 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:36 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 70  €.
+2015-03-02 17:49:36 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:36 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 7  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 145  €.
+2015-03-02 17:49:36 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:37 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 934  €.
+2015-03-02 17:49:37 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:37 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 1  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 140  €.
+2015-03-02 17:49:37 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:37 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 21  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 160  €.
+2015-03-02 17:49:37 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:38 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 14  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 753  €.
+2015-03-02 17:49:38 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:38 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 10  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 345  €.
+2015-03-02 17:49:38 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:38 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 11  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 277  €.
+2015-03-02 17:49:38 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:39 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 661  €.
+2015-03-02 17:49:39 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:39 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 775  €.
+2015-03-02 17:49:39 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:39 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 3  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 494  €.
+2015-03-02 17:49:39 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:39 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 4  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 503  €.
+2015-03-02 17:49:39 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:39 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 28  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 71  €.
+2015-03-02 17:49:39 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:40 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 747  €.
+2015-03-02 17:49:40 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:40 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 499  €.
+2015-03-02 17:49:40 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:40 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 19  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 372  €.
+2015-03-02 17:49:40 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 0  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 970  €.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 420  €.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 23  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 97  €.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 5  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 430  €.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 29  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 15  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 25  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 437  €.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 9  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:41 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 8  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 877  €.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 20  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 493  €.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS0 PER RICARICARLO!
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 17  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 4  con esito   $E: false.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 727  €.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 311  €.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 941  €.
+2015-03-02 17:49:42 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 7  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 705  €.
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 358  €.
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 1  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 21  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 14  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 286  €.
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 10  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 855  €.
+2015-03-02 17:49:43 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 497  €.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 11  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 229  €.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 276  €.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 602  €.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 3  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 4  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 28  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:44 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 670  €.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 127  €.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 19  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 0  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 724  €.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 23  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 5  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 595  €.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 6  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:45 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 903  €.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 9  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 25  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 8  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 20  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 17  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 382  €.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS4 PER RICARICARLO!
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 16  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 3  con esito   $E: false.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 186  €.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 27  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 7  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 1  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 21  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 14  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 10  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 175  €.
+2015-03-02 17:49:46 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 869  €.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 11  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 116  €.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 3  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 4  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 18  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 28  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 730  €.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 24  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 19  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 0  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 684  €.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 13  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 23  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:47 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 695  €.
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 295  €.
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 6  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 958  €.
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 20  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 406  €.
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 15  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:48 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 25  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 613  €.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 8  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 9  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 279  €.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 17  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS3 PER RICARICARLO!
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 555  €.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 14  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 21  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 873  €.
+2015-03-02 17:49:49 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 429  €.
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 7  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 1  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 888  €.
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 10  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 11  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 3  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 112  €.
+2015-03-02 17:49:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 4  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 533  €.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 704  €.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 324  €.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 19  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 0  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 145  €.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 28  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 24  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 23  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 2  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 13  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 22  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 890  €.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 5  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 916  €.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 20  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 25  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 452  €.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 8  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 9  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 516  €.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 17  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 16  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 14  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 21  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 348  €.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 27  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 7  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 11  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 10  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 1  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 3  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 86  €.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 4  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 18  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 19  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 26  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 2  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 22  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 13  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 24  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 23  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 0  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 28  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 246  €.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 76  €.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 6  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 20  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 25  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 29  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 8  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 15  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 9  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 21  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 16  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 17  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 14  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:53 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS2 PER RICARICARLO!
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 11  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 1  con esito   $E: false.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 7  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 4  con esito   $E: false.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 15  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 0  con esito   $E: false.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 12  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 1  con esito   $E: false.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 27  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 4  con esito   $E: false.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 10  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 863  €.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 1  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 3  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 199  €.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 18  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 134  €.
+2015-03-02 17:49:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 23  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 218  €.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 4  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 0  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 19  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 24  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 327  €.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 2  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 28  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 640  €.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 21  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 495  €.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 20  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 17  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 29  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 8  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 16  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 978  €.
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 25  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 14  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 9  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 585  €.
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 11  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS1 PER RICARICARLO!
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 584  €.
+2015-03-02 17:49:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 503  €.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 771  €.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 7  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 3  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 1  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 10  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 18  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 87  €.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 26  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 4  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 19  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 23  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 0  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 141  €.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 2  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 28  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 22  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 6  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 21  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:49:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:54:49 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 255  €.
+2015-03-02 17:54:49 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:54:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 386  €.
+2015-03-02 17:54:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:54:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 867  €.
+2015-03-02 17:54:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 178  €.
+2015-03-02 17:54:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:54:50 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 25  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 953  €.
+2015-03-02 17:54:50 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:54:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 739  €.
+2015-03-02 17:54:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:54:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 3  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 956  €.
+2015-03-02 17:54:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:54:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 827  €.
+2015-03-02 17:54:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:51 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 336  €.
+2015-03-02 17:54:51 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:54:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 28  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 101  €.
+2015-03-02 17:54:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:54:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 257  €.
+2015-03-02 17:54:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:54:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 8  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 691  €.
+2015-03-02 17:54:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:52 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 4  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 861  €.
+2015-03-02 17:54:52 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 591  €.
+2015-03-02 17:54:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:54:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 260  €.
+2015-03-02 17:54:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 9  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 981  €.
+2015-03-02 17:54:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:54:53 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 17  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 825  €.
+2015-03-02 17:54:53 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:54:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 23  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 547  €.
+2015-03-02 17:54:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 7  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 70  €.
+2015-03-02 17:54:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:54:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 59  €.
+2015-03-02 17:54:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:54 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 302  €.
+2015-03-02 17:54:54 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:54:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 21  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 365  €.
+2015-03-02 17:54:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 19  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 348  €.
+2015-03-02 17:54:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:54:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 1  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 613  €.
+2015-03-02 17:54:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:54:55 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 237  €.
+2015-03-02 17:54:55 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:54:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 14  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 916  €.
+2015-03-02 17:54:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:54:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 11  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 925  €.
+2015-03-02 17:54:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:54:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 10  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 80  €.
+2015-03-02 17:54:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:54:56 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 20  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 948  €.
+2015-03-02 17:54:56 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:54:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 0  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 187  €.
+2015-03-02 17:54:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:54:57 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS0 PER RICARICARLO!
+2015-03-02 17:54:57 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:54:57 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 494  €.
+2015-03-02 17:54:57 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:54:58 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 440  €.
+2015-03-02 17:54:58 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:58 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 415  €.
+2015-03-02 17:54:58 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:54:58 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 528  €.
+2015-03-02 17:54:58 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:58 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 25  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 736  €.
+2015-03-02 17:54:58 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:54:59 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 592  €.
+2015-03-02 17:54:59 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:59 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 3  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 650  €.
+2015-03-02 17:54:59 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:54:59 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 586  €.
+2015-03-02 17:54:59 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:54:59 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 418  €.
+2015-03-02 17:54:59 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 28  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 604  €.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 439  €.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 8  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 4  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 756  €.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 725  €.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 176  €.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 9  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 17  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 23  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 7  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:00 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:01 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 119  €.
+2015-03-02 17:55:01 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:55:01 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 26  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:01 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:01 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 21  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 140  €.
+2015-03-02 17:55:01 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:01 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 19  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 976  €.
+2015-03-02 17:55:01 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:55:01 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 1  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 394  €.
+2015-03-02 17:55:01 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 895  €.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 14  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 907  €.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 11  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 10  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 20  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 0  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 234  €.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 27  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 18  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 86  €.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 13  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 25  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 80  €.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 3  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 381  €.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 394  €.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 28  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 8  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 5  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 4  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 2  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 7  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 56  €.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 9  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 17  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 495  €.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 69  €.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 23  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 26  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 15  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 21  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 19  non è riuscito a prelevare dallo sportello $BNS: 1  .
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 1  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 233  €.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 20  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 196  €.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:55:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 10  non è riuscito a prelevare dallo sportello $BNS: 3  .
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 11  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 14  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS1 PER RICARICARLO!
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 0  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 4  con esito   $E: false.
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 152  €.
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 956  €.
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 25  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 13  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 122  €.
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 22  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 3  non è riuscito a prelevare dallo sportello $BNS: 0  .
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 12  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 8  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 430  €.
+2015-03-02 17:55:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:01 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 17  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 692  €.
+2015-03-02 17:57:01 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:01 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 3  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 854  €.
+2015-03-02 17:57:01 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 144  €.
+2015-03-02 17:57:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 304  €.
+2015-03-02 17:57:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 350  €.
+2015-03-02 17:57:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:02 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 664  €.
+2015-03-02 17:57:02 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 20  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 593  €.
+2015-03-02 17:57:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 0  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 581  €.
+2015-03-02 17:57:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 886  €.
+2015-03-02 17:57:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:03 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 7  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 676  €.
+2015-03-02 17:57:03 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 126  €.
+2015-03-02 17:57:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 457  €.
+2015-03-02 17:57:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 407  €.
+2015-03-02 17:57:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:04 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 23  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 484  €.
+2015-03-02 17:57:04 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 205  €.
+2015-03-02 17:57:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 816  €.
+2015-03-02 17:57:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:05 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 4  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 811  €.
+2015-03-02 17:57:05 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 1  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 80  €.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 8  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 52  €.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 28  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 383  €.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 856  €.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 11  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 965  €.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:06 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS0 PER RICARICARLO!
+2015-03-02 17:57:07 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:57:07 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 19  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 898  €.
+2015-03-02 17:57:07 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:07 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 10  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 471  €.
+2015-03-02 17:57:07 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:08 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 25  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 600  €.
+2015-03-02 17:57:08 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:08 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 14  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 699  €.
+2015-03-02 17:57:08 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:08 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 9  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 602  €.
+2015-03-02 17:57:08 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:08 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 508  €.
+2015-03-02 17:57:08 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:09 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 21  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 542  €.
+2015-03-02 17:57:09 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:09 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 439  €.
+2015-03-02 17:57:09 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:09 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 17  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 209  €.
+2015-03-02 17:57:09 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:09 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 3  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 530  €.
+2015-03-02 17:57:09 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:10 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 737  €.
+2015-03-02 17:57:10 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:10 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 573  €.
+2015-03-02 17:57:10 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:10 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 844  €.
+2015-03-02 17:57:10 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:10 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 715  €.
+2015-03-02 17:57:10 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:10 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 20  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:57:10 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 0  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 146  €.
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 988  €.
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 7  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 606  €.
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 2  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 414  €.
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 15  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:57:11 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:15 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 21  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 905  €.
+2015-03-02 17:57:15 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:15 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 740  €.
+2015-03-02 17:57:15 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:15 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 217  €.
+2015-03-02 17:57:15 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:16 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 873  €.
+2015-03-02 17:57:16 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:16 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 17  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 156  €.
+2015-03-02 17:57:16 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:16 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 14  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 139  €.
+2015-03-02 17:57:16 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:17 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 132  €.
+2015-03-02 17:57:17 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:17 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 880  €.
+2015-03-02 17:57:17 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:17 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 212  €.
+2015-03-02 17:57:17 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:17 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 20  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 61  €.
+2015-03-02 17:57:17 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:17 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 990  €.
+2015-03-02 17:57:17 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:18 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 781  €.
+2015-03-02 17:57:18 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:18 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 27  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 198  €.
+2015-03-02 17:57:18 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:18 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 1  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 751  €.
+2015-03-02 17:57:18 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:18 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 53  €.
+2015-03-02 17:57:18 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:18 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:50] - L'AGENTE ARRIVA ALLO SPORTELLO $BNS0 PER RICARICARLO!
+2015-03-02 17:57:19 INFO [cybersec.af1.gruppo4.banca.Banca:ricaricaSportello:58] - L'AGENTE HA COMPLETATO L'OPERAZIONE DI RICARICA.
+2015-03-02 17:57:19 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 7  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 380  €.
+2015-03-02 17:57:19 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:19 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 137  €.
+2015-03-02 17:57:19 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:19 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 52  €.
+2015-03-02 17:57:19 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:19 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 0  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 338  €.
+2015-03-02 17:57:19 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:20 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 4  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 436  €.
+2015-03-02 17:57:20 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:20 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 11  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 878  €.
+2015-03-02 17:57:20 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 11  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:20 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 10  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 556  €.
+2015-03-02 17:57:20 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 10  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:20 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 9  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 235  €.
+2015-03-02 17:57:20 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 9  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:21 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 8  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 306  €.
+2015-03-02 17:57:21 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 8  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:21 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 3  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 622  €.
+2015-03-02 17:57:21 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 3  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:21 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 13  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 724  €.
+2015-03-02 17:57:21 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 13  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:21 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 23  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 978  €.
+2015-03-02 17:57:21 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 23  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:22 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 19  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 203  €.
+2015-03-02 17:57:22 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 19  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:22 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 28  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 349  €.
+2015-03-02 17:57:22 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 28  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:22 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 25  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 799  €.
+2015-03-02 17:57:22 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 25  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:22 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 21  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 821  €.
+2015-03-02 17:57:22 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 21  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:23 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 15  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 477  €.
+2015-03-02 17:57:23 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 15  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:23 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 2  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 403  €.
+2015-03-02 17:57:23 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 2  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:23 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 29  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 200  €.
+2015-03-02 17:57:23 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 29  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:24 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 17  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 293  €.
+2015-03-02 17:57:24 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 14  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:57:24 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 14  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:24 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 17  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:24 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 22  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 204  €.
+2015-03-02 17:57:24 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 22  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:24 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 12  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 100  €.
+2015-03-02 17:57:24 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 12  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:24 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 18  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 347  €.
+2015-03-02 17:57:24 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 18  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:25 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 20  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 205  €.
+2015-03-02 17:57:25 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 20  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
+2015-03-02 17:57:25 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 16  ha eseguito l'operazione dallo sportello $BS: 0 ha prelevato  $BQ: 774  €.
+2015-03-02 17:57:25 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 16  ha utilizzato lo sportello   $IDS: 0  con esito   $E: true.
+2015-03-02 17:57:25 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 26  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 565  €.
+2015-03-02 17:57:25 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 26  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:25 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 27  non è riuscito a prelevare dallo sportello $BNS: 2  .
+2015-03-02 17:57:25 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 27  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:25 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 1  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 125  €.
+2015-03-02 17:57:25 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 1  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:26 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 6  ha eseguito l'operazione dallo sportello $BS: 2 ha prelevato  $BQ: 301  €.
+2015-03-02 17:57:26 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 6  ha utilizzato lo sportello   $IDS: 2  con esito   $E: true.
+2015-03-02 17:57:26 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 7  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 582  €.
+2015-03-02 17:57:26 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 7  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:26 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 24  ha eseguito l'operazione dallo sportello $BS: 4 ha prelevato  $BQ: 994  €.
+2015-03-02 17:57:26 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 24  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:26 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 5  ha eseguito l'operazione dallo sportello $BS: 1 ha prelevato  $BQ: 767  €.
+2015-03-02 17:57:26 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 5  ha utilizzato lo sportello   $IDS: 1  con esito   $E: true.
+2015-03-02 17:57:26 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:89] - Il cliente $BNC: 0  non è riuscito a prelevare dallo sportello $BNS: 4  .
+2015-03-02 17:57:26 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 0  ha utilizzato lo sportello   $IDS: 4  con esito   $E: true.
+2015-03-02 17:57:27 INFO [cybersec.af1.gruppo4.banca.Banca:preleva:85] - Il cliente $BNC: 4  ha eseguito l'operazione dallo sportello $BS: 3 ha prelevato  $BQ: 889  €.
+2015-03-02 17:57:27 INFO [cybersec.af1.gruppo4.banca.Cliente:run:44] - Il cliente $NC: 4  ha utilizzato lo sportello   $IDS: 3  con esito   $E: true.
