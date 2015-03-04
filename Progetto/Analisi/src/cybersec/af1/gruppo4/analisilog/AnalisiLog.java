@@ -119,7 +119,7 @@ public class AnalisiLog
 									if(!infoClienti.containsKey(idC)){
 										infoClienti.put(idC, new int[5]);
 									}
-									//incremento solo la quantita di denaro richiesto dal cliente idC se l'operazione è fallita
+									//sommo tutti i tempi di attesa del cliente idC in coda
 									infoClienti.get(idC)[4] += qta ;
 								}
 							}
